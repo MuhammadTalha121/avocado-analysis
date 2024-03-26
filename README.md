@@ -1,5 +1,3 @@
-Here's a sample README file for the analysis of avocado prices using data science techniques:
-
 ---
 
 # Avocado Price Analysis
